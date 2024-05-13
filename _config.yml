@@ -1,0 +1,8 @@
+name: Epoch Real-time Visualzation Library
+version: 0.8.4
+markdown: redcarpet
+redcarpet:
+    extensions: [with_toc_data]
+pygments: true
+relative_permalinks: false
+baseurl: /epoch/
